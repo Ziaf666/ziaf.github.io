@@ -356,7 +356,7 @@ footer section #copy{
 
 /* hp */
 
-@media (min-width: 360px) and (max-width:498px){
+@media (min-width: 260px) and (max-width:498px){
     html{
         font-size: 50%;
     }
